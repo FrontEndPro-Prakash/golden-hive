@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="79" height="87" viewBox="0 0 79 87">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff5c7"/>
+      <stop offset="0" stop-color="#fff0ac"/>
+      <stop offset="1" stop-color="#ffda3d"/>
+    </radialGradient>
+  </defs>
+  <g id="Group_8" data-name="Group 8" transform="translate(-1178 -2304.5)">
+    <g id="Ellipse_4" data-name="Ellipse 4" transform="translate(1206 2368.5)" stroke="#f1cd33" stroke-width="1" fill="url(#radial-gradient)">
+      <circle cx="11.5" cy="11.5" r="11.5" stroke="none"/>
+      <circle cx="11.5" cy="11.5" r="11" fill="none"/>
+    </g>
+    <g id="Ellipse_5" data-name="Ellipse 5" transform="translate(1234 2320.5)" stroke="#f1cd33" stroke-width="1" fill="url(#radial-gradient)">
+      <circle cx="11.5" cy="11.5" r="11.5" stroke="none"/>
+      <circle cx="11.5" cy="11.5" r="11" fill="none"/>
+    </g>
+    <g id="Ellipse_9" data-name="Ellipse 9" transform="translate(1234 2352.5)" stroke="#f1cd33" stroke-width="1" fill="url(#radial-gradient)">
+      <circle cx="11.5" cy="11.5" r="11.5" stroke="none"/>
+      <circle cx="11.5" cy="11.5" r="11" fill="none"/>
+    </g>
+    <g id="Ellipse_7" data-name="Ellipse 7" transform="translate(1178 2320.5)" stroke="#f1cd33" stroke-width="1" fill="url(#radial-gradient)">
+      <circle cx="11.5" cy="11.5" r="11.5" stroke="none"/>
+      <circle cx="11.5" cy="11.5" r="11" fill="none"/>
+    </g>
+    <g id="Ellipse_8" data-name="Ellipse 8" transform="translate(1178 2352.5)" stroke="#f1cd33" stroke-width="1" fill="url(#radial-gradient)">
+      <circle cx="11.5" cy="11.5" r="11.5" stroke="none"/>
+      <circle cx="11.5" cy="11.5" r="11" fill="none"/>
+    </g>
+    <g id="Ellipse_6" data-name="Ellipse 6" transform="translate(1206 2304.5)" stroke="#f1cd33" stroke-width="1" fill="url(#radial-gradient)">
+      <circle cx="11.5" cy="11.5" r="11.5" stroke="none"/>
+      <circle cx="11.5" cy="11.5" r="11" fill="none"/>
+    </g>
+  </g>
+</svg>
